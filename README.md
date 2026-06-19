@@ -15,4 +15,4 @@ This repository contains screenshots and outputs from tasks completed during the
 - Data Visualization using Tableau
 
 ## Author
-Bhupathiraju Jaya Sri
+Bhupathiraju Jaya sri
